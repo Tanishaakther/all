@@ -1,0 +1,29 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png", TOFFEE Movies VIP
+
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1721262544:KeyName=prod_linear:Signature=jLNaswe8YBhQSF5N8UBM9UxxKASfkkHEt1Lry8K5prJDCSvdXkdTaO48fML8WKfsTVR8Z55BOQnwnFYuCriKDQ"}
+
+https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8
+
+
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_141811001712122330.png", TOFFEE Sports VIP
+
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1721262544:KeyName=prod_linear:Signature=jLNaswe8YBhQSF5N8UBM9UxxKASfkkHEt1Lry8K5prJDCSvdXkdTaO48fML8WKfsTVR8Z55BOQnwnFYuCriKDQ"}
+
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9872e439f21f4a299cab249c6554daa3", "kid":"0cdfcfe0d0f1fbe100554ce3ef4c4665" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroPrima" tvg-name="Astro Prima HD" group-title="bakastaLINK" group-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/astroGOlogo.png" tvg-logo="https://raw.githubusercontent.com/Alwaffy/icons/main/105.png",TEN Sports
+https://sltlivetestgcp.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd
+

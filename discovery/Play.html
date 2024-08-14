@@ -216,10 +216,6 @@ z-index: 1; /*Ensure the logo is on top of the iframe */
                     image: 'https://minhaz-0.github.io/MHTV/mh,png',
                     aspectratio: '16:9',
                     width: '100%',
-                     logo: {
-        file: 'https://minhaz-0.github.io/MHTV/mh,png',
-        link: 'https://minhaz-0.github.io/MHTV/mh,png'
-    },
                     mute: false,
                     autostart: true,
                     file: videoData.link,
@@ -228,6 +224,15 @@ z-index: 1; /*Ensure the logo is on top of the iframe */
                     sharing: {
                         sites: ['facebook', 'twitter']
                     }
+
+			position: 'bottom',
+            stretching: "",
+            type: "dash",
+      logo: {
+file: 'https://minhaz-0.github.io/MHTV/mh.png', //watermark image path
+link: 'https://minhaz-0.github.io/MHTV/mh.png', //link url on watermark image
+position: 'bottom-right', //position of watermark on player
+},
                 });
             }
         };

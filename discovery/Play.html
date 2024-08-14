@@ -23,12 +23,13 @@ $id = $data[1];
     <meta name="author" content="Vaathala">
     <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <link rel="stylesheet" href="https://cdn.plyr.io/3.6.2/plyr.css" />
+    <!--link rel="stylesheet" href="https://cdn.plyr.io/3.6.2/plyr.css" />
     <script src="https://cdn.plyr.io/3.6.3/plyr.js"></script>
     <script src="main/assets/js/jwplayer.js"></script>
     <link rel="shortcut icon" type="image/x-icon" href="https://minhaz-0.github.io/MHTV/mh,png">
-    <script type='text/javascript' src='https://content.jwplatform.com/libraries/IDzF9Zmk.js'></script>
-
+    <script type='text/javascript' src='https://content.jwplatform.com/libraries/IDzF9Zmk.js'></script-->
+	<script src="https://content.jwplatform.com/libraries/SAHhwvZq.js"></script>
+    <script type="text/javaScript" charset="utf-8" async="" src="https://content.jwplatform.com/libraries/SAHhwvZq.js"></script>
 <script>
 // Get the ID from the URL
 var urlParams = new URLSearchParams(window.location.search);
@@ -39,7 +40,7 @@ document.getElementById('pageTitle').innerText = id + " | Sony Liv";
 </script>
 
 </head>
-    <script type='text/javascript' src='https://eltontry.com/09/f1/e9/09f1e956c711aea6a898d5abbb78d092.js'></script>
+    
 
 <body>
    <style>
@@ -185,11 +186,12 @@ z-index: 1; /* Ensure the logo is on top of the iframe */
 
     
 </style>
-   <video id="myElement"></video>
+        <script>jwplayer.key = "XSuP4qMl+9tK17QNb+4+th2Pm9AWgMO/cYH8CI0HGGr7bdjo";</script>
+   <div id="jwplayerDiv"></div>
   <div class="logo"></div>
-<script type="text/javascript">
+<!--script type="text/javascript">
     jwplayer.key = 'Khpp2dHxlBJHC8MCmLnBuV2jK/DwDnJMniwF6EO9HC/riJ712ZmbHg==';
-</script>
+</script-->
  <script type="text/javascript">
         // Function to get URL parameter by name
         function getUrlParameter(name) {
@@ -208,7 +210,7 @@ z-index: 1; /* Ensure the logo is on top of the iframe */
                 var data = JSON.parse(xhr.responseText);
                 var videoData = data.find(video => video.id === id);
 
-                jwplayer("myElement").setup({
+                jwplayer("jwplayerDiv").setup({
                     title: videoData.name,
                     description: "VaathalaTV",
                     image: 'https://minhaz-0.github.io/MHTV/mh,png',

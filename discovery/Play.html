@@ -36,7 +36,7 @@ var urlParams = new URLSearchParams(window.location.search);
 var id = urlParams.get('id');
 
 // Update the title with the ID
-document.getElementById('pageTitle').innerText = id + " | Sony Liv";
+document.getElementById('pageTitle').innerText = id + " | MH TV";
 </script>
 
 </head>
@@ -216,6 +216,7 @@ z-index: 1; /*Ensure the logo is on top of the iframe */
                     image: 'videoData.logo',
                     //aspectratio: '16:9',
                     width: '100%',
+			position: 'bottom',
 			   logo: {
 file: 'https://minhaz-0.github.io/MHTV/mh.png', //watermark image path
 link: 'https://minhaz-0.github.io/MHTV/mh.png', //link url on watermark image
@@ -225,7 +226,7 @@ position: 'bottom-right', //position of watermark on player
                     autostart: true,
                     file: videoData.link,
                     type: "dash",
-		  
+		    stretching: "",
                     captions: {color: '#ffb800', fontSize: 30, backgroundOpacity: 0},
                     sharing: {
                         sites: ['facebook', 'twitter']

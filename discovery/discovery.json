@@ -143,10 +143,10 @@
     },
     {
         "id": "14",
-        "name": "JALSHA MOVIES HD",
-        "logo": "https://ap2-prod-images.disco-api.com/2020/12/05/967c038f-8703-4f64-9446-5a9032c86c87.png?bf=0&f=jpg&p=true&q=85&w=260",
+        "name": "& PICTURES HD",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png",
         "group": "Discovery",
-        "link": "https://humsab.xyz/IN_JALSHAMOVIES/index.m3u8",
+        "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8",
         "license_key": "",
         "k": "",
         "kid": ""

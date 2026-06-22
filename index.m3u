@@ -7,6 +7,11 @@ https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/6O0B3iyoy-cVzGuZQgQ_MF1XS5Y4dBrkqPewzMVzZQfCNKgZlOriGxh18LAqfbazSKD4UHP2av-opIP9zut3Tw/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="", BEIN SPORTS 1
 https://s3.us-east-2.amazonaws.com/cdn.h110/hls/0/stream.m3u8
-
-
-
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="", BEIN SPORTS 1 8K
+http://84.17.50.102/fox/index.m3u8
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="", BEIN SPORTS 1 8K
+https://corestream.ronaldovurdu.help//trt1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="", BEIN SPORTS 1 8K
+https://tfwt1gradgmttgy41hqbifaaugcjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=c5c795fb75ceb7aa733c8514-178171694128257&wsIPSercert=f337de0b42b9149f68f912fbf696e03f&wsBindIP=2&wsserid=1168240832904154750
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="", BEIN SPORTS 1 8K
+https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8

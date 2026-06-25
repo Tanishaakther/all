@@ -1,14 +1,16 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="", BEIN SPORTS 1 8K
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="",BEIN SPORTS 1 8K
 https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
-#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="",TELEMUNDO HD
-https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd
-#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="",SOCO LIVE 
-https://live.inplyr.com/room/168740.m3u8
-#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="",SOCO LIVE 2
-https://live.inplyr.com/room/118206.m3u8
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="",BEIN SPORTS 1
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="",BEIN SPORTS 1 MAX
+https://pub-e3eb43d02df647099f49525f20574746.r2.dev/BMax1-2/index.m3u8
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="",TOFFEE LIVE 1
+https://cdn-tt.pages.dev/ch1.m3u8
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="",DAZN
+https://pub-f2987c4fc9d2450191dfee2ee8dc9f51.r2.dev/sp/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="",FOX 
 http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="", BEIN SPORTS 1 8K
@@ -20,8 +22,7 @@ https://ex.creatas.site/poolos1.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="",TOFFEE LIVE
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_1750.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="",D SPORTS HD
-https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
-
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 
 
 # Sports

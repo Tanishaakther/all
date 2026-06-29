@@ -1,8 +1,40 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
+http://180.94.28.28:8097//BTV/index.fmp4.m3u8?token=8e9616c21d1ce3454bb9171c3c68550574f121aa-12a55987e1a817f2a4c12b2cfa6c3b78-1776169971-1776166371
 
-#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="",BEIN SPORTS 1 8K
-https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
+#EXTINF:-1 tvg-name="PTV" tvg-id="PTV" tvg-logo="http://114.130.57.233:8080/PTV/logo",PTV
+http://114.130.57.233:8080/PTV/video.m3u8
+#EXTINF:-1 tvg-name="Somoy-TV-3Mb" tvg-id="Somoy-TV-3Mb" tvg-logo="http://114.130.57.233:8080/Somoy-TV-3Mb/logo",Somoy-TV-3Mb
+http://114.130.57.233:8080/Somoy-TV-3Mb/video.m3u8
+#EXTINF:-1 tvg-name="T-Sports-KOS" tvg-id="T-Sports-KOS",T-Sports-KOS
+http://114.130.57.233:8080/T-Sports-KOS/video.m3u8
+#EXTINF:-1 tvg-name="LIVE-Sports" tvg-id="LIVE-Sports" tvg-logo="http://114.130.57.233:8080/LIVE-Sports/logo",LIVE-Sports
+http://114.130.57.233:8080/LIVE-Sports/video.m3u8
+#EXTINF:-1 tvg-name="TsportHD" tvg-id="TsportHD" tvg-logo="http://114.130.57.233:8080/TsportHD/logo",TsportHD
+http://114.130.57.233:8080/TsportHD/video.m3u8
+#EXTINF:-1 tvg-name="T-Sports" tvg-id="T-Sports" tvg-logo="http://114.130.57.233:8080/T-Sports/logo",T-Sports
+http://114.130.57.233:8080/T-Sports/video.m3u8
+#EXTINF:-1 tvg-name="Fifa-1" tvg-id="Fifa-1" tvg-logo="http://114.130.57.233:8080/Fifa-1/logo",Fifa-1
+http://114.130.57.233:8080/Fifa-1/video.m3u8
+#EXTINF:-1 tvg-name="T-sports-64" tvg-id="T-sports-64",T-sports-64
+http://114.130.57.233:8080/T-sports-64/video.m3u8
+#EXTINF:-1 tvg-name="BTV" tvg-id="BTV",BTV
+http://114.130.57.233:8080/BTV/video.m3u8
+#EXTINF:-1 tvg-name="unitedsports-bdixbd.net" tvg-id="unitedsports-bdixbd.net",unitedsports-bdixbd.net
+http://114.130.57.233:8080/unitedsports-bdixbd.net/video.m3u8
+#EXTINF:-1 tvg-name="StarSports1" tvg-id="StarSports1",StarSports1
+http://114.130.57.233:8080/StarSports1/video.m3u8
+#EXTINF:-1 tvg-name="Zee-Bangla" tvg-id="Zee-Bangla",Zee-Bangla
+http://114.130.57.233:8080/Zee-Bangla/video.m3u8
+#EXTINF:-1 tvg-name="StarJolsha" tvg-id="StarJolsha",StarJolsha
+http://114.130.57.233:8080/StarJolsha/video.m3u8
+#EXTINF:-1 tvg-name="Bein-1" tvg-id="Bein-1",Bein-1
+http://114.130.57.233:8080/Bein-1/video.m3u8
+#EXTINF:-1 tvg-name="Bein-2" tvg-id="Bein-2",Bein-2
+http://114.130.57.233:8080/Bein-2/video.m3u8
+#EXTINF:-1 tvg-name="BTV-HD" tvg-id="BTV-HD",BTV-HD
+http://114.130.57.233:8080/BTV-HD/video.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="",BEIN SPORTS 1
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="",BEIN SPORTS 1 MAX

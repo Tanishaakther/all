@@ -9,8 +9,8 @@ https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 https://pub-e3eb43d02df647099f49525f20574746.r2.dev/BMax1-2/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="",TOFFEE LIVE 1
 https://live.inplyr.com/room/168740.m3u8
-#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="",DAZN
-https://pub-f2987c4fc9d2450191dfee2ee8dc9f51.r2.dev/sp/index.m3u8
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="",Bioscope LiVE
+https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="",FOX 
 http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="", BEIN SPORTS 1 8K

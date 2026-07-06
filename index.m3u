@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 group-title="TOFFEE" tvg-chno="" tvg-id="" tvg-logo="",TOFFEE LIVE 1
+https://cdn-tt.pages.dev/ch1.m3u8
+#EXTINF:-1 group-title="TOFFEE" tvg-chno="" tvg-id="" tvg-logo="",TOFFEE LIVE 2
+https://cdn-tt.pages.dev/ch4.m3u8
+#EXTINF:-1 group-title="TOFFEE" tvg-chno="" tvg-id="" tvg-logo="",TOFFEE LIVE 3
+https://cdn-tt.pages.dev/ch3.m3u8
+#EXTINF:-1 group-title="TOFFEE" tvg-chno="" tvg-id="" tvg-logo="",TOFFEE LIVE 4
+https://cdn-tt.pages.dev/ch4.m3u8
 
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
 http://180.94.28.28:8097/BTV/index.m3u8
@@ -175,9 +183,11 @@ http://198.195.239.50:8095/sangeetBangla/index.m3u8
 http://198.195.239.50:8095/9xm/index.m3u8
 
 # Hindi
+
 #EXTINF:-1 tvg-name="SONY MAX HD" group-title="Hindi" tvg-logo="http://198.195.239.50:8095/img/channels/SONY MAX HD.png",SONY MAX HD
 http://198.195.239.50:8095/sonyMax/index.m3u8
-
+#EXTINF:-1 tvg-name="ZEE CINEMA HD" group-title="Hindi" tvg-logo="",ZEE CINEMA HD
+http://180.94.28.28:8097/ZEE-CINEMA/index.m3u8
 #EXTINF:-1 tvg-name="SONY ENTERTAINMENT HD" group-title="Hindi" tvg-logo="http://198.195.239.50:8095/img/channels/SONY ENTERTAINMENT HD.png",SONY ENTERTAINMENT HD
 http://198.195.239.50:8095/sonyEntertainment/index.m3u8
 
